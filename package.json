@@ -1,0 +1,16 @@
+{
+  "name": "checker-link-prime-community",
+  "version": "1.0.0",
+  "description": "discord.gg/noprime",
+  "main": "chk_link.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apenasfazendodinheiro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "date-fns": "^2.28.0"
+  }
+}
